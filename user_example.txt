@@ -1,0 +1,82 @@
+Given the following notes taken in the lecture provided with three backticks delimiters. Generate a reflection essay that sumamries the three key points from the lecture. Keep the essay within 500 words.
+
+Use british english. Make the essay personal, and not sound like a textbook.
+
+Notes taken during the lecture:
+```
+When you buy one brand of shampoo, don’t necessarily buy the same brand’s conditioner → propose format of bottle that can sit together better. Increase sales by 20%
+
+Same injection mold, shampoo and conditioner is taken into consideration since conditioner need to be upside down, tends to be sticky.
+
+Clunky propositions that kinda not check out all the boxes, sometimes u wanna use some tech but doesn’t meet implications on the human life. Sometimes the part that doesn’t fit the mold is the human need in the first place.
+
+What is best for the market, really can only know when u actly enter the market.
+
+Might not be starting with problem-oriented approach
+
+Compliance → Ppl sitting down and not scanning
+
+Which problem we want to tackle. Booking system is not rocket science, but how can you get ppl to scan QR code.
+
+→ Why is it that ppl don’t want to take responsibility to do sth
+
+Human behaviour
+
+Narrowing: conveniently
+
+Don’t work against human nature
+
+can use gpt lmao
+
+In a school dorm context, I want to solve the problem of people not passing on their usable old stuff. Now I first want to do this by having you tell me 50 reasons why people don’t like receiving second hand items.
+
+Can you give me 10 more that are particularly fussy, or comes from a really difficult to please person
+
+loss aversion = fear of losing out
+
+drive to feel ⇒ how do you make things sensory, how do you make it fun
+
+cannot work against human will, unless u can force the punishment on them. if u can enforce it, punishment is quite effective. always work with what ppl wanna do.
+
+⇒ are ppl comfortable with shooing ppl off
+
+be open to bad ideas, else subsconsciously gravitating to what ppl have done
+
+bad idea good to plough a lot of things
+
+chatgpt can help u do embarassing stuff that u can’t ask urself
+
+“ok this idea is bad, is there 1 - 2 gems”
+
+can ask gpt to generate bad idea also, still better to do manually so can judge if it is good or bad
+
+dont try to replace, try to amplify mindset change. how can tech help.
+
+dont fight natural solution, use design to work with those
+
+google rule: toothbrush rule
+
+use it 2x a day, else doesnt pass
+
+niche audience
+
+everyday give u 1 credit to read next episode. if u want to read faster, buy credits.
+
+aspiration vs problems
+
+→ next gen of flipbook, no one gives a shit
+
+→ “guilt free way of giving ur kids screen time”
+
+solve the bias problem, how do you serve parents well, make fuss-free
+
+kinda solves the parents’ problem, not just pitching a very advanced picture book. 
+
+“What do people want to buy”
+
+consumer centric, user centric, tech centric
+
+Design centricity puts humans first, helps to see things more holistically. Tech centricity helps to put the latest things, consumer centricity trumps everything.
+
+design centric comes to serve within the umbrella.
+```
